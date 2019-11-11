@@ -1,0 +1,36 @@
+{
+    "AmenitiesList":[
+        {
+            "title":"Soap Dispenser",
+            "imgurl":"../assets/soap.png"
+        },
+        {
+            "title":"Washbasin",
+            "imgurl":"../assets/wash.png"
+        },
+        {
+            "title":"Lock on doors",
+            "imgurl":"../assets/lock.png"
+        },
+        {
+            "title":"Faucet for Washing",
+            "imgurl":"../assets/shower.png"
+        }, {
+            "title":"Security Lights",
+            "imgurl":"../assets/light.png"
+        } ,
+       
+        {
+            "title":"Security Windows",
+            "imgurl":"../assets/secuirty.png"
+        },
+        {
+            "toilets":[
+                "Public Toilet",
+                "Coal Farm Toilet",
+                "Private Toilet "
+    ]
+        }
+         
+    ]
+}
