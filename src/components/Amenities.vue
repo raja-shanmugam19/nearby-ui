@@ -17,7 +17,7 @@
    <button class="btn btn-default">{{constants.BUTTON_TEXT.show}}</button>
    <div class="rating">
     <p>{{constants.SECURITY}}</p>
-     <div class="col-10" >
+     <div class="col1" >
         <span class="fa fa-star checked"></span>
         <span class="fa fa-star checked"></span>
         <span class="fa fa-star checked"></span>
@@ -27,7 +27,7 @@
     </div>
     <div class="rating">
     <p>{{constants.HYGIENE}}</p>
-     <div class="col-5" >
+     <div class="col2" >
         <span class="fa fa-star checked"></span>
         <span class="fa fa-star checked"></span>
         <span class="fa fa-star checked"></span>

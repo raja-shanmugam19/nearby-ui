@@ -1,36 +1,30 @@
 {
-    "AmenitiesList":[
+    "AmenitiesList": [
         {
-            "title":"Soap Dispenser",
-            "imgurl":"../assets/soap.png"
+            "title": "Soap Dispenser"
         },
         {
-            "title":"Washbasin",
-            "imgurl":"../assets/wash.png"
+            "title": "Washbasin"
         },
         {
-            "title":"Lock on doors",
-            "imgurl":"../assets/lock.png"
+            "title": "Security Lights"
         },
         {
-            "title":"Faucet for Washing",
-            "imgurl":"../assets/shower.png"
-        }, {
-            "title":"Security Lights",
-            "imgurl":"../assets/light.png"
-        } ,
-       
-        {
-            "title":"Security Windows",
-            "imgurl":"../assets/secuirty.png"
+            "title": "Faucet for Washing"
         },
         {
-            "toilets":[
+            "title": "Lock on doors"
+        },
+        {
+            "title": "Security Windows"
+        },
+     
+        {
+            "toilets": [
                 "Public Toilet",
                 "Coal Farm Toilet",
                 "Private Toilet "
-    ]
+            ]
         }
-         
     ]
 }
